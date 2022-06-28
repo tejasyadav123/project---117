@@ -1,0 +1,17 @@
+body{
+    background-color: gold;
+}
+#score{
+    font-size: 25px;
+    margin-left: 20px;
+}
+#time{
+    font-size: 25px;
+    margin-right: 20px;
+    float: right;
+}
+p,span{
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
